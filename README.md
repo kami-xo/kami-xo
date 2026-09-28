@@ -1,5 +1,10 @@
 ## yo
 
+✨ fun facts ✨
+- i own 1 cat
+- the profile picture is not my cat
+
+
 contact: https://enguyen.org
 
 <!--
