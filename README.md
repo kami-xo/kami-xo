@@ -6,8 +6,10 @@
 
 
 contact: https://enguyen.org
-| test | test |
-| test | test |
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Value A  | Value B  | Value C  |
+| Value D  | Value E  | Value F  |
 <!--
 **kami-xo/kami-xo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
