@@ -1,7 +1,5 @@
 ## yo
 
-Panda Express fueled engineering since 06'
-
 ✨ fun facts ✨
 - i own 1 cat
 - the profile picture is not my cat
